@@ -1,3 +1,7 @@
+# DYNAMIC CGPA CALCULATOR:
+The task was to display the final results in a subject of the students based on the student marks details and marking scheme in the subject.
+For more info read: Assignment.docs
+
 ## Instructions to execute:
 ```
 Execute jar file with following command in terminal or cmd
