@@ -1,9 +1,9 @@
-##Instructions to execute:
+## Instructions to execute:
 ```
 Execute jar file with following command in terminal or cmd
 java -jar student_grading_system.jar
 ```
-##Important Points:
+## Important Points:
 
 - The student’s mark details are read from file “Students_Marks_Details.xlsx”
 
